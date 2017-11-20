@@ -1,5 +1,6 @@
 # Driving Behaviorial Cloning Project
-
+<br> <br>
+<img src="Model Data/car_img.png" width="480" alt="Combined Image" />
 
 Overview
 ---
