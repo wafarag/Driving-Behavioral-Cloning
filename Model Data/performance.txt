@@ -1,0 +1,3 @@
+My Data - 2 Epochs - PKeep = 0.7 - RATE = 0.0002
+
+loss: 0.0348 - val_loss: 0.0295
